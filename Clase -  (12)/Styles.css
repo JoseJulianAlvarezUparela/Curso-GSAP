@@ -1,0 +1,12 @@
+div {
+    font-size: 3rem;
+}
+
+.box {
+    height: 100vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
