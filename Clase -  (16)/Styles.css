@@ -1,0 +1,12 @@
+.box {
+	width:50vw;
+	height:50vw;
+	border-radius:6vw;
+	background:red;
+	cursor:pointer;
+	transition: 0.5s;
+}
+
+.box:hover{
+	background:black;
+}
